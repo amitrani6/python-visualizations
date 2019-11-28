@@ -13,3 +13,5 @@ This repository contains three files and one folder:
 
 
 # OHLC
+
+The open-high-low-close (OHLC) chart depicts the various price ranges of a security over time.
