@@ -7,6 +7,9 @@ This repository contains three files and one folder:
 
 2) **.gitignore** - Contains the files excluded from this repository
 
-3) **README.md** - This document
+3) **OHLC_Chart_Python_Package_Comparison.ipynb** - A jupyter notebook containing OHLC and growth percentage visualizations
 
-4)
+4) **README.md** - This document
+
+
+# OHLC
