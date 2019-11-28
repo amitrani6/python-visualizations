@@ -14,4 +14,6 @@ This repository contains three files and one folder:
 
 # OHLC
 
-The open-high-low-close (OHLC) chart depicts the various price ranges of a security over time.
+The open-high-low-close (OHLC) chart depicts the various price ranges of a security over time. An average price can be derived from the OHLC chart which can then be used to compare the growth of the security to an index.
+
+Panda's `.pct_change()` method can be used to derive growth from period to period entries in a data frame.
